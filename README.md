@@ -4,8 +4,8 @@ The purpose of this repository is to provide 'hands-on' RSpec lessons. These les
 ## Topics
 These lessons cover many topics, but it does not cover everything that RSpec is capable of testing. You should expect to learn foundational knowledge on the following topics:
 - Let Variables (in 01 and 02)
-- Implicit (subject - 02) and Explicit Subject(in 03)
-- A variety of built-in-matchers
+- Implicit (subject - 02) and Explicit Subject(in 03, 04)
+- A variety of built-in-matchers (in 06)
 - Setting values for instance variables to create test conditions
 - The 'Arrange, Act & Assert' testing pattern
 - Stubs, Mocks, and Doubles
