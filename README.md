@@ -9,7 +9,7 @@ These lessons cover many topics, but it does not cover everything that RSpec is 
 - Custom matchers (in 09)
 - Setting values for instance variables to create test conditions
 - The 'Arrange, Act & Assert' testing pattern (12)
-- Stubs, Mocks, and Doubles
+- Stubs (13), Mocks, and Doubles
 - Test Driven Development
 
 ## Set-Up
